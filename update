@@ -1,0 +1,4 @@
+#!/bin/bash
+
+brew upgrade --cask --greedy
+sudo softwareupdate -i -a
