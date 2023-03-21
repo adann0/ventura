@@ -10,8 +10,8 @@ export PATH="/usr/local/opt/openssl@3/bin:$PATH"
 
 export PATH="/Users/$USER/Library/Android/sdk/cmdline-tools/latest/bin:$PATH"
 export PATH="/Users/$USER/Library/Android/sdk/platform-tools:$PATH"
-export PATH="/Users/nqqb/Library/Android/sdk/emulator:$PATH"
-export PATH="/Users/nqqb/Library/Android/sdk/build-tools/33.0.1:$PATH"
+export PATH="/Users/$USER/Library/Android/sdk/emulator:$PATH"
+export PATH="/Users/$USER/Library/Android/sdk/build-tools/33.0.1:$PATH"
 
 #export SSL_CERT_DIR=""
 #export NODE_EXTRA_CA_CERTS=""
