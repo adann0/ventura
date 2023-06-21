@@ -153,7 +153,7 @@ Pour les mises à jour macOS, dans LuLu, il faut autoriser :
 
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-$ brew install apktool clisp dmg2img flatbuffers flatcc gdb git gnupg graphviz htop jadx john-jumbo netcat nvm openjdk@11 pandoc python@3.11 python@3.9 smartmontools telnet wget
+$ brew install apktool clisp dmg2img flatbuffers flatcc gdb git gnupg graphviz htop jadx john-jumbo mkdocs netcat nvm openjdk@11 pandoc python@3.11 python@3.9 smartmontools telnet wget
 $ brew install --cask android-platform-tools android-studio appcleaner balenaetcher basictex deluge dhs eclipse-ide electron firefox firefox-developer-edition ghidra google-chrome jupyterlab mysqlworkbench netiquette obs onyx openoffice owasp-zap pycharm-ce raspberry-pi-imager taskexplorer textmate virtualbox visual-studio-code vlc vmware-fusion wireshark
 ```
 
